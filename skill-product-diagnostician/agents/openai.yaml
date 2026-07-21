@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill 产品诊断师"
+  short_description: "通过实测、六维评分和行动建议诊断或对比 AI Skill"
+  default_prompt: "使用 $skill-product-diagnostician 拆解这个 Skill，先判断我的目的，再给出六维评分和最高优先级改进建议。"
